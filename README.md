@@ -111,6 +111,5 @@ Copyright (c) 2025 [저자 이름]
 
 ## ✉️ 연락처
 
-이메일: your.email@example.com
-
-GitHub: @yourusername
+이메일: dlgustjd0316@naver.com
+GitHub: @ato003
